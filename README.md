@@ -14,8 +14,8 @@ Team meeting of Recursive Rewind on October 4th, 2022
 
 
 ### Deadlines
- 1. @M-Hassan-Raza 5/11/2022
- 2. @umer-farooq1784  5/11/20222
- 3. @Taimoor2500  5/11/2022
+ 1. @M-Hassan-Raza 6/11/2022
+ 2. @umer-farooq1784  6/11/20222
+ 3. @Taimoor2500  6/11/2022
 
  
